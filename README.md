@@ -149,7 +149,7 @@ Professional footer branding
 ```
 Energy-Anomaly-Detection/
 │
-├── notebooks/
+├── Evoastra_MajorProject_Notebooks/
 │   ├── 01_Data_Loading.ipynb
 │   ├── 02_Preprocessing.ipynb
 │   ├── 03_Feature_Engineering.ipynb
