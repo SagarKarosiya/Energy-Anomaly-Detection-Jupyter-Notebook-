@@ -157,7 +157,13 @@ Energy-Anomaly-Detection/
 │   ├── 05_Evaluation.ipynb
 │   ├── 06_Business_Insights.ipynb
 │   └── 07_Report_Generation.ipynb
-│
+|
+├── assets/
+│   ├── anomaly_distribution.png
+│   ├── seasonal_pattern.png
+│   ├── dashboard_preview.png
+|
+|
 ├── src/
 │   ├── preprocessing.py
 │   ├── feature_engineering.py
