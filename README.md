@@ -253,6 +253,9 @@ http://localhost:8501
       optional weather variables
 
       Timestamp must be in datetime-compatible format.
+## VS Code / Streamlit Version :
+## Link: https://github.com/SagarKarosiya/Energy-Anomaly-Detection-.git 
+
 ##  📱 Deployment
 
 This project can be deployed on:
