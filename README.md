@@ -144,30 +144,34 @@ Professional footer branding
 
 ---
 
-##  📁 Project Structure 
+##  📁 Project Structure Notebook
 
 ```
 MajorProject_Evoastra/
 │
-├── Data
+├── Dataset
+    ├──Datafile.csv
+
+├── data_loader.ipynb
 │
-├──scr
-    ├── data_loader.py
-    │
-    ├── preprocessing.py
-    │
-    ├── feature_engineering.py
-    │
-    ├── model.py
-    │
-    ├── evaluation.py
-    │
-    ├── business_insight.py
-    │
-    ├── pdf_report.py
+├── preprocessing.ipynb
+│
+├── Energy_Anomaly_Detection.ipynb
+│
+├──app.ipynb
+│
+├── feature_engineering.ipynb
+│
+├── model.ipynb
+│
+├── evaluation.ipynb
+│
+├── business_insight.ipynb
+│
+├── pdf_report.ipynb
 │
 ├── requirements.txt
-└── Streamlit Dashboard (app.py)
+└── Readme
 ```
 ---
 
@@ -220,6 +224,7 @@ Streamlit Dashboard
 ## Installation
 
 ### 1️⃣ Clone Repository
+For Streamlit compatible 
 https://github.com/SagarKarosiya/Energy-Anomaly-Detection-.git
 
 ### 2️⃣ Create Virtual Environment
