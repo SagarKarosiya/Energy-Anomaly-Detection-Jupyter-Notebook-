@@ -147,31 +147,28 @@ Professional footer branding
 ##  📁 Project Structure Notebook
 
 ```
-MajorProject_Evoastra/
+Energy-Anomaly-Detection/
 │
-├── Dataset
-    ├──Datafile.csv
-
-├── data_loader.ipynb
+├── notebooks/
+│   ├── 01_Data_Loading.ipynb
+│   ├── 02_Preprocessing.ipynb
+│   ├── 03_Feature_Engineering.ipynb
+│   ├── 04_Model_Training.ipynb
+│   ├── 05_Evaluation.ipynb
+│   ├── 06_Business_Insights.ipynb
+│   └── 07_Report_Generation.ipynb
 │
-├── preprocessing.ipynb
+├── src/
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   ├── model.py
+│   ├── evaluation.py
+│   ├── business_insight.py
+│   ├── pdf_report.py
 │
-├── Energy_Anomaly_Detection.ipynb
-│
-├──app.ipynb
-│
-├── feature_engineering.ipynb
-│
-├── model.ipynb
-│
-├── evaluation.ipynb
-│
-├── business_insight.ipynb
-│
-├── pdf_report.ipynb
-│
+├── app.py   ← For Streamlit deployment only
 ├── requirements.txt
-└── Readme
+└── README.md
 ```
 ---
 
