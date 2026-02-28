@@ -159,10 +159,13 @@ Energy-Anomaly-Detection/
 │   └── 07_Report_Generation.ipynb
 |
 ├── assets/
-│   ├── anomaly_distribution.png
+│   ├── Energy AI Dashboard·Streamlit.pdf
+│   ├── Energy_Ai_Report.pdf
+│   ├── Report_preview.jpg
+|   ├── anomaly_distribution.png
 │   ├── seasonal_pattern.png
-│   ├── dashboard_preview.png
-|
+|   ├── peak_hour_pattern.jpg
+│   ├──comsumption_anomaly.jpg
 |
 ├── src/
 │   ├── preprocessing.py
