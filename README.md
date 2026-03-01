@@ -63,6 +63,13 @@ Temporal Features
     Deviation Metrics
 
      Z-score (24-hour & 168-hour window)
+### Previews
+## Anomaly Distribution 
+[Anomaly Distribution] assests/anomaly_distribution.jpg
+## Dashboard UI
+[Streamlit Dashboard] assests/dashboard Streamlit pdf
+
+
 
 ##  Machine Learning Models
 
